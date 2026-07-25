@@ -1,0 +1,29 @@
+print("hello,world!")
+#არ არის შეცდომა
+
+
+name="luka"
+print(name)
+#შეცდომა იმიტომაა,რომ ცვლადს ქვია name,ხოლო print ში წერია  nam
+
+
+#მეოთხე დავალება
+my_name = "giorgi"
+print(my_name)
+
+
+#მეხუთე დავალება
+first_name= "masho"
+last_name= "chanturidze"
+
+print(first_name)
+print(last_name)
+
+
+#მეექვსე დავალება
+my_name="saba"
+my_age=13
+my_hobby="chess"
+print(my_name)
+print(my_age)
+print(my_hobby)
