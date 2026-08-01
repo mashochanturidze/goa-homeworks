@@ -27,3 +27,29 @@ my_hobby="chess"
 print(my_name)
 print(my_age)
 print(my_hobby)
+
+
+
+
+
+
+#26 july
+#პირველი დავალება
+name = input("masho")
+hobby = input("watching movies")
+
+print("masho" + name + "watching movies" + hobby)
+
+#მეორე დავალება
+#კომენტარი გამოიყენება იმისთვის რომ ჩანაწერი დავწეროთ.
+#პითონი მას აიგნორებს და ყურადღებას არ აქცევს
+
+#მესამე დავალება
+#ჩემი ქალაქის ცვლადი
+my_city="tbilisi"
+
+
+
+
+
+input()

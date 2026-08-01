@@ -17,3 +17,28 @@ print(my_name)
 first_number=2
 second_number=10
 print(first_number * second_number)
+
+
+
+
+
+
+#1 aug
+#პირველი დავალება
+age=input("Enter your age")
+print(age)
+
+#მეორე დავალება
+my_name="berdia"
+print(my_name)
+#print()  გამოიტანს ცვლადის მნიშვნელობას ტერმინალში
+
+
+#მესამე დავალება
+num1 =20
+num2 =10
+
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 / num2)
