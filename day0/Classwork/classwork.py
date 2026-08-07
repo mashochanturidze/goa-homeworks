@@ -52,4 +52,28 @@ my_city="tbilisi"
 
 
 
-input()
+
+
+#2.8.2026
+#N1
+#input-მონაცემი რომლითაც პროგრამა იღებს მომხმარებლისგან
+
+#N2
+name = input("Enter your name: ")
+print(name)
+
+#N3
+favorite_color = input("Enter your favorite color:")
+print(favorite_color)
+
+#N4
+name = "Masho"
+
+print(name)
+print(type(name))
+
+#N5
+age = 12
+
+print(age)
+print(type(age))
