@@ -41,4 +41,4 @@ print(age + 5)
 #8
 name=input("enter your name")
 last_name=input("enter your last name")
-print("hello"+ name + last_name)
+print("hello"+ " " + name +  " " + last_name)
